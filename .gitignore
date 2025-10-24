@@ -1,0 +1,61 @@
+# Visual Studio / Rider / VSCode
+.vs/
+.vscode/
+*.user
+*.suo
+*.userprefs
+*.ide
+*.resharper
+_ReSharper*/
+*.dotCover
+*.ncrunch*
+*.sln.docstates
+
+# Build
+bin/
+obj/
+Debug/
+Release/
+TestResults/
+
+# .NET
+*.dll
+*.exe
+*.pdb
+*.cache
+*.log
+*.vspscc
+*.vssscc
+*.dbmdl
+*.bak
+*.backup
+
+# NuGet
+*.nupkg
+*.snupkg
+packages/
+.nuget/
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Docker
+docker-compose.override.yml
+.env
+*.env
+**/Dockerfile.*
+**/docker-compose.override.yml
+
+# OS
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Azure / Cloud
+*.Publish.xml
+*.azurePubxml
+*.azurePubxml.user
+
+# Logs
+*.log
