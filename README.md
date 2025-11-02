@@ -16,7 +16,7 @@ Cada módulo é isolado, com suas próprias camadas **Domain**, **Application**,
 ├── Courses   
 ├── Content   
 ├── Enrollment   
-├── Payment
+├── Payment  
 ├── Progress   
 ├── Certificates   
 └── Notifications 
