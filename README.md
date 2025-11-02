@@ -13,41 +13,13 @@ Cada módulo é isolado, com suas próprias camadas **Domain**, **Application**,
 │   ├── Application  
 │   ├── Infrastructure  
 │   └── WebAPI  
-├── Courses  
-│   ├── Domain  
-│   ├── Application  
-│   ├── Infrastructure  
-│   └── WebAPI  
-├── Content  
-│   ├── Domain  
-│   ├── Application  
-│   ├── Infrastructure  
-│   └── WebAPI  
-├── Enrollment  
-│   ├── Domain  
-│   ├── Application  
-│   ├── Infrastructure  
-│   └── WebAPI  
-├── Payment  
-│   ├── Domain  
-│   ├── Application  
-│   ├── Infrastructure  
-│   └── WebAPI  
-├── Progress  
-│   ├── Domain  
-│   ├── Application  
-│   ├── Infrastructure  
-│   └── WebAPI  
-├── Certificates  
-│   ├── Domain  
-│   ├── Application  
-│   ├── Infrastructure  
-│   └── WebAPI  
-└── Notifications  
-    ├── Domain  
-    ├── Application  
-    ├── Infrastructure  
-    └── WebAPI  
+├── Courses   
+├── Content   
+├── Enrollment   
+├── Payment
+├── Progress   
+├── Certificates   
+└── Notifications 
 
 **Camadas:**  
 * **Domain:** entidades, agregados, regras de negócio puras  
